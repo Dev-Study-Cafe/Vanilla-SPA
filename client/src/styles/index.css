@@ -1,0 +1,29 @@
+.movieItemContainer {
+    width: 35%;
+    margin-top: 40px;
+    padding: 20px 0;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.homeLink {
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    color: blue;
+}
+
+.notFoundTitle {
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.movieDetailContainer {
+    font-size: 1.5rem;
+    margin-top: 40px;
+}
+
+.buttonContainer {
+    margin-top: 40px;
+}
